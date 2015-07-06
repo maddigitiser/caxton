@@ -5,3 +5,4 @@ authors = ["Tom Carter <maddigitiser@gmail.com>"]
 
 [dependencies]
 rocksdb = "~0.0.5"
+getopts = "0.2"
