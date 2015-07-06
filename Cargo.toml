@@ -1,0 +1,7 @@
+[package]
+name = "caxton"
+version = "0.1.0"
+authors = ["Tom Carter <maddigitiser@gmail.com>"]
+
+[dependencies]
+rocksdb = "~0.0.5"
